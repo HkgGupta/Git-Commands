@@ -24,7 +24,7 @@ git remote add origin <repository>
 
 ## 2. New Branch
 
-(i) Create and switch to a new branch:
+Create and switch to a new branch:
 
   ```bash
   git checkout -b <branch-name>
@@ -32,7 +32,7 @@ git remote add origin <repository>
 
 or
 
-(i) Switch to existing branch:
+Switch to existing branch:
 
   ```bash
   git checkout <branch-name>
@@ -40,7 +40,7 @@ or
 
 ## 3. Make Changes and Stage Them
 
-(i) Add specific files to the staging area:
+Add specific files to the staging area:
 
   ```bash
   git add <file>
@@ -48,7 +48,7 @@ or
 
 or 
 
-(i) Add all changes:
+Add all changes:
 
   ```bash
   git add .
@@ -56,7 +56,7 @@ or
 
 ## 4. Commit Your Changes
 
-(i) Commit the staged changes with a message:
+Commit the staged changes with a message:
 
   ```bash
   git commit -m "Your commit message"
@@ -64,7 +64,7 @@ or
 
 ## 5. Push Changes to the Remote Repository
 
-(i) Push changes to the remote repository:
+Push changes to the remote repository:
 
   ```bash
   git push
