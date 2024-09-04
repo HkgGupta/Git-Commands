@@ -15,7 +15,6 @@
 | **`git add <file>`** | Add a file to the staging area |
 | **`git add .` or `git add -A`** | Add all new and changed files to the staging area |
 | **`git commit -m "message"`** | Commit changes with a message |
-| **`git rm -r <file>`** | Remove a file or directory |
 
 ## Branching & Merging
 
